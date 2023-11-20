@@ -29,4 +29,4 @@ No dudes en contactar conmigo. Puedes encontrarme en:
 
 ¡Gracias por visitar mi perfil!
 
-<iframe src="https://giphy.com/embed/W4IY7zQdRh7Ow" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Texto alternativo](https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow)https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow)
