@@ -30,5 +30,5 @@ No dudes en contactar conmigo. Puedes encontrarme en:
 ¡Gracias por visitar mi perfil!
 
 <!-- Puedes añadir un GIF utilizando la etiqueta de imagen -->
-[enlace-al-gif.gif](https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow)https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow)
+[enlace-al-gif.gif](https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow)
 
