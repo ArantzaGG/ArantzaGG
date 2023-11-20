@@ -9,15 +9,17 @@
   - MongoDB y MySQL
 
 - 💼 Estoy en búsqueda activa de empleo.
-- 🎓 Soy graduada en Filología Hispánica, Máster en Profesorado y Correctora profesional .
+- 🎓 Soy Adalaber de la Promo Úrsula del Bootcamp de Programación Web Full Stack. 
+- 📚 Antes de entrar en el mundo tecnológico, me gradué en Filología Hispánica en la UCM de Madrid, hice el Máster de Profesorado en la UA y varios cursos de Corrección profesional, Diseño Gráfico y Maquetación con Cálamo&Cran. 
 
 ## Habilidades
 - **Lenguajes de Programación:** HTML, CSS, JavaScript
 - **Tecnologías:** React, Node.js, Express.js, MongoDB, MySQL
 - **Otros:** He trabajado muchos años de cara al público y en equipo. Tengo grandes habilidades sociales y me adapto perfectamente a cualquier método de trabajo. 
 
-<!-- ## Proyectos Destacados
-- [Proyecto 1](enlace-al-proyecto-1): Breve descripción o función del proyecto.
+## Proyectos Destacados
+Permanece atenta a esta sección, en ella compartiré los proyectos que vaya desarrollando. 
+<!-- - [Proyecto 1](enlace-al-proyecto-1): Breve descripción o función del proyecto.
 - [Proyecto 2](enlace-al-proyecto-2): Breve descripción o función del proyecto. -->
 
 ## Contacto
