@@ -29,6 +29,4 @@ No dudes en contactar conmigo. Puedes encontrarme en:
 
 ¡Gracias por visitar mi perfil!
 
-<!-- Puedes añadir un GIF utilizando la etiqueta de imagen -->
-[enlace-al-gif.gif](https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow)
-
+<iframe src="https://giphy.com/embed/W4IY7zQdRh7Ow" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
