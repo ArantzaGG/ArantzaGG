@@ -9,7 +9,7 @@
   - MongoDB y MySQL
 
 - 💼 Estoy en búsqueda activa de empleo.
-- 🎓 Soy graduada en [Filología Hispánica, Máster en Profesorado y Correctora profesional] .
+- 🎓 Soy graduada en Filología Hispánica, Máster en Profesorado y Correctora profesional .
 
 ## Habilidades
 - **Lenguajes de Programación:** HTML, CSS, JavaScript
