@@ -25,7 +25,7 @@ No dudes en contactar conmigo. Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/arantzagomez1212/)
 
-- Correo electrónico: [arantzaggomez@gmail.com]
+- Correo electrónico: arantzaggomez@gmail.com
 
 ¡Gracias por visitar mi perfil!
 
