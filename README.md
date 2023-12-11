@@ -13,7 +13,7 @@
 - 📚 Antes de entrar en el mundo tecnológico, me gradué en Filología Hispánica en la UCM de Madrid, hice el Máster de Profesorado en la UA y varios cursos de Corrección profesional, Diseño Gráfico y Maquetación con Cálamo&Cran. 
 
 ## Habilidades
-- **Lenguajes de Programación:** HTML, CSS, JavaScript
+- **Lenguajes de Programación:** HTML, CSS, JavaScript, C#
 - **Tecnologías:** React, Node.js, Express.js, MongoDB, MySQL
 - **Otros:** He trabajado muchos años de cara al público y en equipo. Tengo grandes habilidades sociales y me adapto perfectamente a cualquier método de trabajo. 
 
