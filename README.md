@@ -1,29 +1,30 @@
 ### Hi, World 👋 Soy Arantza 👋
 
 ## Sobre mí:
+Soy programadora junior con un camino único: pasé de la Filología Hispánica y la enseñanza a un mundo que me apasiona, el desarrollo web. Combino habilidades técnicas con experiencia trabajando en equipo y atención al cliente, lo que me da una visión integral en la resolución de problemas y el diseño de soluciones eficientes.
 
-- 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en:
-  - HTML, CSS, SCSS/SASS
-  - JavaScript (incluyendo React)
-  - Node.js y Express.js
-  - MongoDB y MySQL
+- 🌱  Actualmente, tengo experiencia y sigo perfeccionándome en tecnologías como:
 
-- 💼 Estoy en búsqueda activa de empleo.
-- 🎓 Soy Adalaber de la Promo Úrsula del Bootcamp de Programación Web Full Stack. 
-- 📚 Antes de entrar en el mundo tecnológico, me gradué en Filología Hispánica en la UCM de Madrid, hice el Máster de Profesorado en la UA y varios cursos de Corrección profesional, Diseño Gráfico y Maquetación con Cálamo&Cran. 
+Frontend: HTML, CSS, SCSS/SASS, JavaScript, TypeScript, React y Angular.
+Backend: Node.js, Express.js, MongoDB, MySQL.
+Otros Lenguajes: C#, Python.
+
+- 💼 Desde enero de 2025, formo parte del equipo de Métrica Consulting como programadora junior.
+- 🎓 Me gradué como Adalaber de la Promo Úrsula en el Bootcamp de Programación Web Full Stack y, anteriormente, estudié Filología Hispánica en la UCM. También completé un máster en profesorado y diversos cursos en áreas como corrección profesional y diseño gráfico.
 
 ## Habilidades
-- **Lenguajes de Programación:** HTML, CSS, JavaScript, C#
-- **Tecnologías:** React, Node.js, Express.js, MongoDB, MySQL
-- **Otros:** He trabajado muchos años de cara al público y en equipo. Tengo grandes habilidades sociales y me adapto perfectamente a cualquier método de trabajo. 
+- **Frontend:** HTML, CSS, SCSS/SASS, JavaScript, TypeScript, React, Angular.
+- **Backend:** Node.js, Express.js, MongoDB, MySQL.
+- **Otros lenguajes:** C#, Python.
+- **Habilidades personales:** Gran capacidad para trabajar en equipo, adaptabilidad a diferentes metodologías de trabajo (ágiles o tradicionales) y habilidades sociales consolidadas tras años de experiencia en atención al cliente.
 
-## Proyectos Destacados
+<!-- ## Proyectos Destacados
 Permanece atenta a esta sección, en ella compartiré los proyectos que vaya desarrollando. 
-<!-- - [Proyecto 1](enlace-al-proyecto-1): Breve descripción o función del proyecto.
+- [Proyecto 1](enlace-al-proyecto-1): Breve descripción o función del proyecto.
 - [Proyecto 2](enlace-al-proyecto-2): Breve descripción o función del proyecto. -->
 
-## Contacto
-No dudes en contactar conmigo. Puedes encontrarme en:
+## Contacto:
+Estoy abierta a colaborar en proyectos o discutir sobre tecnología. Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/arantzagomez1212/)
 
