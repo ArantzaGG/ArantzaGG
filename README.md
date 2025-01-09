@@ -3,14 +3,14 @@
 ## Sobre mí  🌟:
 Soy programadora junior con un camino único: pasé de la Filología Hispánica y la enseñanza a un mundo que me apasiona, el desarrollo web. Combino habilidades técnicas con experiencia trabajando en equipo y atención al cliente, lo que me da una visión integral en la resolución de problemas y el diseño de soluciones eficientes.
 
-- 🌱  Actualmente, tengo experiencia y sigo perfeccionándome en tecnologías como:
+🌱  Actualmente, tengo experiencia y sigo perfeccionándome en tecnologías como:
 
   - Frontend: HTML, CSS, SCSS/SASS, JavaScript, TypeScript, React y Angular.
   - Backend: Node.js, Express.js, MongoDB, MySQL.
   - Otros Lenguajes: C#, Python.
 
-- 💼 Desde enero de 2025, formo parte del equipo de Métrica Consulting como programadora junior.
-- 🎓 Me gradué como Adalaber de la Promo Úrsula en el Bootcamp de Programación Web Full Stack y, anteriormente, estudié Filología Hispánica en la UCM. También completé un máster en profesorado y diversos cursos en áreas como corrección profesional y diseño gráfico.
+💼 Desde enero de 2025, formo parte del equipo de Métrica Consulting como programadora junior.
+🎓 Me gradué como Adalaber de la Promo Úrsula en el Bootcamp de Programación Web Full Stack y, anteriormente, estudié Filología Hispánica en la UCM. También completé un máster en profesorado y diversos cursos en áreas como corrección profesional y diseño gráfico.
 
 ## Habilidades  💻:
 - **Frontend:** HTML, CSS, SCSS/SASS, JavaScript, TypeScript, React, Angular.
