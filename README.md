@@ -10,6 +10,7 @@ Soy programadora junior con un camino único: pasé de la Filología Hispánica 
   - Otros Lenguajes: C#, Python.
 
 💼 Desde enero de 2025, formo parte del equipo de Métrica Consulting como programadora junior.
+
 🎓 Me gradué como Adalaber de la Promo Úrsula en el Bootcamp de Programación Web Full Stack y, anteriormente, estudié Filología Hispánica en la UCM. También completé un máster en profesorado y diversos cursos en áreas como corrección profesional y diseño gráfico.
 
 ## Habilidades  💻:
